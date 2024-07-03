@@ -8,7 +8,7 @@ Netwhat
 
 ## Subject
 
-This project (made by edi-marc) is a simple calculator I used to train for the 42 Netwhat project.
+This project (with the help of edi-marc) is a simple calculator I used to train for the 42 Netwhat project.
 Unfortunately this project is outdated and no longer has its subject.
 
 ## Usage
