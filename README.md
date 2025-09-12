@@ -8,8 +8,8 @@ Netwhat
 
 ## Subject
 
-This project (with the help of edi-marc) is a simple calculator I used to train for the 42 Netwhat project.
-Unfortunately this project is outdated and no longer has its subject.
+This project (thanks to edi-marc) is a simple calculator created as training for the 42 Netwhat quiz. The quiz focused on core networking concepts including IP addressing, subnetting, broadcast addresses, TCP/UDP protocols, OSI layers, DNS, DHCP, and routing. 
+Please note that the project is now outdated and its original subject is no longer available.
 
 ## Usage
 
