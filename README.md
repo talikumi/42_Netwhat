@@ -13,8 +13,12 @@ Please note that the project is now outdated and its original subject is no long
 
 ## Usage
 
-This project includes a Makefile. You can use `make` to build the project. After building, run the executable file specified by the NAME variable in the Makefile
+This project includes a Makefile. You can run `make` to build the project. <br>
+Once compiled, execute the file (defined by the NAME variable inside the Makefile):
 
+```bash
+./$NAME
+```
 ## Project Status
 
 Project is: _complete_ & _no longer being worked on_.
